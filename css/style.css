@@ -1,0 +1,72 @@
+body {
+    background-color: #EEEBDD;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    color: #313131;
+}
+
+p {
+    font-family: 'Quicksand',Sans-Serif;
+    color: #313131;
+}
+
+.text {
+    font-family: 'Quicksand',Sans-Serif;
+    color: #313131;
+}
+
+.navbar {
+    background-color: #EEEBDD!important;
+}
+
+.brand {
+    color: #313131;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.nav-list {
+    color: #313131;
+    /*silver*/
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+}
+
+.nav-btn {
+    font-family: 'Quicksand',Sans-Serif;
+    padding: 10px 20px 10px 20px;
+    background-color: rgb(105,14,233);
+    /*background-color: hsl(268, 82%, 60%);*/
+}
+
+.nav-btn:hover {
+    border: 1px solid #3a56d9;
+}
+
+.text-login {
+    color: #313131;
+    margin-left: 15px;
+    font-family: 'Quicksand',Sans-Serif;
+    font-weight: 500;
+}
+
+.bg-pink {
+    color: rgb(222,82,146);
+}
+
+.text-sub {
+    font-weight: 500;
+}
+
+.bg-sekunder {
+    background-color: #eae6d1;
+}
+
+.bg-tersier {
+    background-color: #e2d9ae;
+}
+
+.container-footer {
+    margin-top: 130px;
+}
